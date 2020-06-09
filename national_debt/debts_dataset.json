@@ -1,0 +1,738 @@
+[
+    {
+        "country_name": "Japan",
+        "gpd_debt": "237.54%"
+    },
+    {
+        "country_name": "Venezuela",
+        "gpd_debt": "214.45%"
+    },
+    {
+        "country_name": "Sudan",
+        "gpd_debt": "177.87%"
+    },
+    {
+        "country_name": "Greece",
+        "gpd_debt": "174.15%"
+    },
+    {
+        "country_name": "Lebanon",
+        "gpd_debt": "157.81%"
+    },
+    {
+        "country_name": "Italy",
+        "gpd_debt": "133.43%"
+    },
+    {
+        "country_name": "Eritrea",
+        "gpd_debt": "127.34%"
+    },
+    {
+        "country_name": "Cape Verde",
+        "gpd_debt": "125.29%"
+    },
+    {
+        "country_name": "Mozambique",
+        "gpd_debt": "124.46%"
+    },
+    {
+        "country_name": "Portugal",
+        "gpd_debt": "119.46%"
+    },
+    {
+        "country_name": "Barbados",
+        "gpd_debt": "117.27%"
+    },
+    {
+        "country_name": "Singapore",
+        "gpd_debt": "109.37%"
+    },
+    {
+        "country_name": "United States",
+        "gpd_debt": "106.70%"
+    },
+    {
+        "country_name": "Bhutan",
+        "gpd_debt": "103.85%"
+    },
+    {
+        "country_name": "Cyprus",
+        "gpd_debt": "101.04%"
+    },
+    {
+        "country_name": "Bahrain",
+        "gpd_debt": "100.19%"
+    },
+    {
+        "country_name": "Belgium",
+        "gpd_debt": "99.57%"
+    },
+    {
+        "country_name": "France",
+        "gpd_debt": "99.20%"
+    },
+    {
+        "country_name": "Spain",
+        "gpd_debt": "95.96%"
+    },
+    {
+        "country_name": "Jordan",
+        "gpd_debt": "94.83%"
+    },
+    {
+        "country_name": "Jamaica",
+        "gpd_debt": "94.13%"
+    },
+    {
+        "country_name": "Belize",
+        "gpd_debt": "92.64%"
+    },
+    {
+        "country_name": "Angola",
+        "gpd_debt": "90.46%"
+    },
+    {
+        "country_name": "Brazil",
+        "gpd_debt": "90.36%"
+    },
+    {
+        "country_name": "Republic of the Congo",
+        "gpd_debt": "90.19%"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "gpd_debt": "88.35%"
+    },
+    {
+        "country_name": "Canada",
+        "gpd_debt": "88.01%"
+    },
+    {
+        "country_name": "Egypt",
+        "gpd_debt": "86.93%"
+    },
+    {
+        "country_name": "United Kingdom",
+        "gpd_debt": "85.67%"
+    },
+    {
+        "country_name": "Aruba",
+        "gpd_debt": "83.57%"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "gpd_debt": "82.99%"
+    },
+    {
+        "country_name": "Tunisia",
+        "gpd_debt": "81.55%"
+    },
+    {
+        "country_name": "Mauritania",
+        "gpd_debt": "80.61%"
+    },
+    {
+        "country_name": "Zambia",
+        "gpd_debt": "80.50%"
+    },
+    {
+        "country_name": "Dominica",
+        "gpd_debt": "79.84%"
+    },
+    {
+        "country_name": "Gambia",
+        "gpd_debt": "78.67%"
+    },
+    {
+        "country_name": "San Marino",
+        "gpd_debt": "77.12%"
+    },
+    {
+        "country_name": "Pakistan",
+        "gpd_debt": "77.00%"
+    },
+    {
+        "country_name": "Argentina",
+        "gpd_debt": "75.90%"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "gpd_debt": "74.10%"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "gpd_debt": "72.37%"
+    },
+    {
+        "country_name": "Suriname",
+        "gpd_debt": "72.05%"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "gpd_debt": "71.62%"
+    },
+    {
+        "country_name": "Saint Vincent and the Grenadines",
+        "gpd_debt": "71.38%"
+    },
+    {
+        "country_name": "Uruguay",
+        "gpd_debt": "71.34%"
+    },
+    {
+        "country_name": "Austria",
+        "gpd_debt": "71.17%"
+    },
+    {
+        "country_name": "Croatia",
+        "gpd_debt": "70.73%"
+    },
+    {
+        "country_name": "Montenegro",
+        "gpd_debt": "70.58%"
+    },
+    {
+        "country_name": "Togo",
+        "gpd_debt": "70.39%"
+    },
+    {
+        "country_name": "India",
+        "gpd_debt": "69.04%"
+    },
+    {
+        "country_name": "El Salvador",
+        "gpd_debt": "68.10%"
+    },
+    {
+        "country_name": "Mauritius",
+        "gpd_debt": "67.50%"
+    },
+    {
+        "country_name": "Hungary",
+        "gpd_debt": "66.62%"
+    },
+    {
+        "country_name": "Slovenia",
+        "gpd_debt": "65.44%"
+    },
+    {
+        "country_name": "Albania",
+        "gpd_debt": "65.13%"
+    },
+    {
+        "country_name": "Morocco",
+        "gpd_debt": "65.11%"
+    },
+    {
+        "country_name": "Laos",
+        "gpd_debt": "64.13%"
+    },
+    {
+        "country_name": "Burundi",
+        "gpd_debt": "63.54%"
+    },
+    {
+        "country_name": "Djibouti",
+        "gpd_debt": "62.99%"
+    },
+    {
+        "country_name": "Ireland",
+        "gpd_debt": "62.42%"
+    },
+    {
+        "country_name": "Ukraine",
+        "gpd_debt": "62.03%"
+    },
+    {
+        "country_name": "Senegal",
+        "gpd_debt": "62.00%"
+    },
+    {
+        "country_name": "Ghana",
+        "gpd_debt": "61.99%"
+    },
+    {
+        "country_name": "Maldives",
+        "gpd_debt": "61.43%"
+    },
+    {
+        "country_name": "Oman",
+        "gpd_debt": "61.29%"
+    },
+    {
+        "country_name": "Bahamas",
+        "gpd_debt": "60.49%"
+    },
+    {
+        "country_name": "Nauru",
+        "gpd_debt": "60.39%"
+    },
+    {
+        "country_name": "Finland",
+        "gpd_debt": "59.88%"
+    },
+    {
+        "country_name": "Saint Kitts and Nevis",
+        "gpd_debt": "59.49%"
+    },
+    {
+        "country_name": "Malawi",
+        "gpd_debt": "59.01%"
+    },
+    {
+        "country_name": "Israel",
+        "gpd_debt": "58.96%"
+    },
+    {
+        "country_name": "Gabon",
+        "gpd_debt": "58.48%"
+    },
+    {
+        "country_name": "South Africa",
+        "gpd_debt": "57.81%"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "gpd_debt": "57.70%"
+    },
+    {
+        "country_name": "Ethiopia",
+        "gpd_debt": "57.43%"
+    },
+    {
+        "country_name": "Vietnam",
+        "gpd_debt": "57.36%"
+    },
+    {
+        "country_name": "Guyana",
+        "gpd_debt": "57.22%"
+    },
+    {
+        "country_name": "Bolivia",
+        "gpd_debt": "57.11%"
+    },
+    {
+        "country_name": "Germany",
+        "gpd_debt": "56.93%"
+    },
+    {
+        "country_name": "Malaysia",
+        "gpd_debt": "56.32%"
+    },
+    {
+        "country_name": "Costa Rica",
+        "gpd_debt": "56.15%"
+    },
+    {
+        "country_name": "Grenada",
+        "gpd_debt": "56.12%"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "gpd_debt": "56.09%"
+    },
+    {
+        "country_name": "Niger",
+        "gpd_debt": "55.60%"
+    },
+    {
+        "country_name": "Kenya",
+        "gpd_debt": "55.50%"
+    },
+    {
+        "country_name": "China",
+        "gpd_debt": "55.36%"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "gpd_debt": "54.92%"
+    },
+    {
+        "country_name": "Yemen",
+        "gpd_debt": "54.51%"
+    },
+    {
+        "country_name": "Seychelles",
+        "gpd_debt": "54.49%"
+    },
+    {
+        "country_name": "Mexico",
+        "gpd_debt": "54.11%"
+    },
+    {
+        "country_name": "Benin",
+        "gpd_debt": "54.00%"
+    },
+    {
+        "country_name": "Qatar",
+        "gpd_debt": "52.74%"
+    },
+    {
+        "country_name": "Vanuatu",
+        "gpd_debt": "52.18%"
+    },
+    {
+        "country_name": "Netherlands",
+        "gpd_debt": "52.04%"
+    },
+    {
+        "country_name": "Namibia",
+        "gpd_debt": "51.60%"
+    },
+    {
+        "country_name": "Belarus",
+        "gpd_debt": "51.08%"
+    },
+    {
+        "country_name": "Serbia",
+        "gpd_debt": "50.95%"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "gpd_debt": "50.92%"
+    },
+    {
+        "country_name": "Iraq",
+        "gpd_debt": "50.25%"
+    },
+    {
+        "country_name": "Fiji",
+        "gpd_debt": "50.22%"
+    },
+    {
+        "country_name": "Rwanda",
+        "gpd_debt": "50.00%"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "gpd_debt": "49.75%"
+    },
+    {
+        "country_name": "Tajikistan",
+        "gpd_debt": "49.46%"
+    },
+    {
+        "country_name": "Samoa",
+        "gpd_debt": "49.44%"
+    },
+    {
+        "country_name": "Ecuador",
+        "gpd_debt": "49.20%"
+    },
+    {
+        "country_name": "Colombia",
+        "gpd_debt": "49.16%"
+    },
+    {
+        "country_name": "Armenia",
+        "gpd_debt": "47.95%"
+    },
+    {
+        "country_name": "Poland",
+        "gpd_debt": "47.48%"
+    },
+    {
+        "country_name": "Algeria",
+        "gpd_debt": "46.92%"
+    },
+    {
+        "country_name": "Slovakia",
+        "gpd_debt": "46.90%"
+    },
+    {
+        "country_name": "Liberia",
+        "gpd_debt": "46.66%"
+    },
+    {
+        "country_name": "Guinea",
+        "gpd_debt": "45.98%"
+    },
+    {
+        "country_name": "Georgia",
+        "gpd_debt": "45.05%"
+    },
+    {
+        "country_name": "Uganda",
+        "gpd_debt": "44.81%"
+    },
+    {
+        "country_name": "Chad",
+        "gpd_debt": "42.91%"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "gpd_debt": "42.47%"
+    },
+    {
+        "country_name": "Malta",
+        "gpd_debt": "42.46%"
+    },
+    {
+        "country_name": "Central African Republic",
+        "gpd_debt": "42.25%"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "gpd_debt": "41.92%"
+    },
+    {
+        "country_name": "Thailand",
+        "gpd_debt": "41.47%"
+    },
+    {
+        "country_name": "Swaziland",
+        "gpd_debt": "41.11%"
+    },
+    {
+        "country_name": "Australia",
+        "gpd_debt": "41.10%"
+    },
+    {
+        "country_name": "Madagascar",
+        "gpd_debt": "41.02%"
+    },
+    {
+        "country_name": "Nicaragua",
+        "gpd_debt": "40.88%"
+    },
+    {
+        "country_name": "Honduras",
+        "gpd_debt": "40.80%"
+    },
+    {
+        "country_name": "South Korea",
+        "gpd_debt": "40.54%"
+    },
+    {
+        "country_name": "Macedonia",
+        "gpd_debt": "40.48%"
+    },
+    {
+        "country_name": "Switzerland",
+        "gpd_debt": "39.49%"
+    },
+    {
+        "country_name": "Myanmar",
+        "gpd_debt": "39.19%"
+    },
+    {
+        "country_name": "Philippines",
+        "gpd_debt": "39.10%"
+    },
+    {
+        "country_name": "Cameroon",
+        "gpd_debt": "38.11%"
+    },
+    {
+        "country_name": "Romania",
+        "gpd_debt": "37.99%"
+    },
+    {
+        "country_name": "Lesotho",
+        "gpd_debt": "37.95%"
+    },
+    {
+        "country_name": "South Sudan",
+        "gpd_debt": "37.81%"
+    },
+    {
+        "country_name": "Panama",
+        "gpd_debt": "37.81%"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "gpd_debt": "37.72%"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "gpd_debt": "37.49%"
+    },
+    {
+        "country_name": "Sweden",
+        "gpd_debt": "37.23%"
+    },
+    {
+        "country_name": "Mali",
+        "gpd_debt": "36.93%"
+    },
+    {
+        "country_name": "Norway",
+        "gpd_debt": "36.75%"
+    },
+    {
+        "country_name": "Latvia",
+        "gpd_debt": "36.66%"
+    },
+    {
+        "country_name": "Tanzania",
+        "gpd_debt": "36.57%"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "gpd_debt": "36.34%"
+    },
+    {
+        "country_name": "Haiti",
+        "gpd_debt": "36.23%"
+    },
+    {
+        "country_name": "Comoros",
+        "gpd_debt": "35.08%"
+    },
+    {
+        "country_name": "Bangladesh",
+        "gpd_debt": "34.81%"
+    },
+    {
+        "country_name": "Taiwan",
+        "gpd_debt": "33.91%"
+    },
+    {
+        "country_name": "Lithuania",
+        "gpd_debt": "33.79%"
+    },
+    {
+        "country_name": "Denmark",
+        "gpd_debt": "33.61%"
+    },
+    {
+        "country_name": "Iceland",
+        "gpd_debt": "33.13%"
+    },
+    {
+        "country_name": "Nepal",
+        "gpd_debt": "33.07%"
+    },
+    {
+        "country_name": "Czech Republic",
+        "gpd_debt": "31.57%"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "gpd_debt": "30.25%"
+    },
+    {
+        "country_name": "Nigeria",
+        "gpd_debt": "30.05%"
+    },
+    {
+        "country_name": "Iran",
+        "gpd_debt": "30.04%"
+    },
+    {
+        "country_name": "Turkey",
+        "gpd_debt": "29.93%"
+    },
+    {
+        "country_name": "Cambodia",
+        "gpd_debt": "29.57%"
+    },
+    {
+        "country_name": "Indonesia",
+        "gpd_debt": "29.29%"
+    },
+    {
+        "country_name": "Moldova",
+        "gpd_debt": "28.82%"
+    },
+    {
+        "country_name": "New Zealand",
+        "gpd_debt": "28.07%"
+    },
+    {
+        "country_name": "Peru",
+        "gpd_debt": "27.18%"
+    },
+    {
+        "country_name": "Chile",
+        "gpd_debt": "27.17%"
+    },
+    {
+        "country_name": "Guatemala",
+        "gpd_debt": "24.76%"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "gpd_debt": "23.71%"
+    },
+    {
+        "country_name": "Kiribati",
+        "gpd_debt": "23.48%"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "gpd_debt": "23.37%"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "gpd_debt": "23.23%"
+    },
+    {
+        "country_name": "Paraguay",
+        "gpd_debt": "22.37%"
+    },
+    {
+        "country_name": "Tuvalu",
+        "gpd_debt": "21.81%"
+    },
+    {
+        "country_name": "Luxembourg",
+        "gpd_debt": "21.61%"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "gpd_debt": "20.99%"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "gpd_debt": "20.90%"
+    },
+    {
+        "country_name": "Bulgaria",
+        "gpd_debt": "19.33%"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "gpd_debt": "19.20%"
+    },
+    {
+        "country_name": "Micronesia",
+        "gpd_debt": "18.41%"
+    },
+    {
+        "country_name": "Kuwait",
+        "gpd_debt": "17.78%"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "gpd_debt": "17.59%"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "gpd_debt": "14.56%"
+    },
+    {
+        "country_name": "DR Congo",
+        "gpd_debt": "14.01%"
+    },
+    {
+        "country_name": "Russia",
+        "gpd_debt": "13.79%"
+    },
+    {
+        "country_name": "Botswana",
+        "gpd_debt": "12.78%"
+    },
+    {
+        "country_name": "Estonia",
+        "gpd_debt": "7.61%"
+    },
+    {
+        "country_name": "Afghanistan",
+        "gpd_debt": "6.88%"
+    },
+    {
+        "country_name": "Brunei",
+        "gpd_debt": "2.63%"
+    }
+]
